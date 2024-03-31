@@ -26,3 +26,5 @@ Computer System Organization NYU CS, Lecturer: Moody
 - [Malloc](https://github.com/Ruian7P/CSO/blob/main/note/malloc.md)
 - [Machine-Level Programming](https://github.com/Ruian7P/Computer-System-Organization/blob/main/note/Machine-Level%20Programming.pdf)
   - [mov and lea](https://github.com/Ruian7P/Computer-System-Organization/blob/main/note/mov%20and%20lea.md)
+- [Cache and Memory]
+  - [Find the address for the cache configuration]
