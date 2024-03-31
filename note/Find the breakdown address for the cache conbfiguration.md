@@ -1,5 +1,5 @@
 - **Cache Address**
-  - tag    set index    block offset
+  - tag | set index | block offset
   - example:
     - 32 bit address
     - 32K cache
