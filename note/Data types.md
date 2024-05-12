@@ -4,7 +4,7 @@
   - float/double: 4/8 byte
 
 ### int:
-  - decimal: 0x____
+  - hex: 0x____
   - binary:  0b____
 
 ### float/double
