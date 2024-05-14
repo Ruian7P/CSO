@@ -24,7 +24,9 @@ Computer System Organization NYU CS, Lecturer: Moody
   - [Pointer in 2D Arrary](https://github.com/Ruian7P/CSO/blob/main/note/pointer%20in%202d%20array.png)
 - [Structure](https://github.com/Ruian7P/CSO/blob/main/note/Structures.md)
 - [Malloc](https://github.com/Ruian7P/CSO/blob/main/note/malloc.md)
+  - [Dynamic memory allocation (implicit and explicit list)](https://github.com/Ruian7P/Computer-System-Organization/blob/main/note/dynamic%20memory%20allocation%20(implicit%20and%20explicit%20list).pdf)
 - [Machine-Level Programming](https://github.com/Ruian7P/Computer-System-Organization/blob/main/note/Machine-Level%20Programming.pdf)
   - [mov and lea](https://github.com/Ruian7P/Computer-System-Organization/blob/main/note/mov%20and%20lea.md)
 - [Cache and Memory]
   - [Find the breakdown address for the cache configuration](https://github.com/Ruian7P/Computer-System-Organization/blob/main/note/Find%20the%20breakdown%20address%20for%20the%20cache%20conbfiguration.md)
+- [Exception and Process](https://github.com/Ruian7P/Computer-System-Organization/blob/main/note/Exception%20and%20Process.pdf)
